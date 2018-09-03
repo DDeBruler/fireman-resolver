@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# Public libraries
+/notify/pkg/
+/notify/src/github.com/
+/notify/src/golang.org/
+/notify/src/google.golang.org/
